@@ -47,7 +47,7 @@ ScrollReveal().reveal('.home-content h1,.about-img',{origin:'left'});
 ScrollReveal().reveal('.home-content p,.about-content',{origin:'right'});
 
 const typed = new Typed('.multiple-text',{
-    strings:['Data Science Student at The Univesity of Hong Kong','Aspiring Data Scientist'],
+    strings:['Data Science Student @ HKU','Prospective Data Scientist'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
